@@ -9,5 +9,5 @@ comment
 .content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
 
 body{
-    background-color: rgb(150, 72, 223);
+    background-color:purple ;
 }
